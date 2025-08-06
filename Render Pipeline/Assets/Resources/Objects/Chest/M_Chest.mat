@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Chest
-  m_Shader: {fileID: -6465566751694194690, guid: 9944585abb5ca414d97a1994d114801b, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: c6626764594ead949a2a4feb33458da4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -119,9 +119,9 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _Fresnel_Angle: -1
-    - _Fresnel_Size: 10
+    - _Fresnel_Size: 6.3
     - _GlossMapScale: 1
-    - _Gloss_Size: 20
+    - _Gloss_Size: 61
     - _Glossiness: 0.4472136
     - _GlossyReflections: 1
     - _Metallic: 0
@@ -144,14 +144,22 @@ Material:
     - _BaseColor: {r: 0.9063317, g: 0.9063317, b: 0.9063317, a: 1}
     - _Color: {r: 0.9063317, g: 0.9063317, b: 0.9063317, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Fresnel_Intensity: {r: 2.9894376, g: 5.6743197, b: 6.964404, a: 0}
-    - _Gloss_Intensity: {r: 7.552344, g: 3.883045, b: 3.883045, a: 0}
+    - _Fresnel_Intensity: {r: 9.651686, g: 120.362175, b: 119.29923, a: 0}
+    - _Gloss_Intensity: {r: 12.423529, g: 13.841708, b: 23.968626, a: 0}
     - _L1_color: {r: 1.2883838, g: 1.2746776, b: 0.9662878, a: 0.46344742}
     - _L1_dir: {r: -0.3485181, g: 0.5102306, b: 0.7862569, a: 0}
-    - _L2_color: {r: 0.07970058, g: 0, b: 0, a: 0.687074}
-    - _L2_dir: {r: 0.9631508, g: 0.25631762, b: 0.08149738, a: 0}
-    - _L3_color: {r: 0, g: 0.23139179, b: 0.0039222864, a: 0.09710104}
-    - _L3_dir: {r: 0.74442035, g: 0.16232957, b: -0.6476785, a: 0}
+    - _L2_color: {r: 0.43628845, g: 0.32678863, b: 0.41137758, a: 0.1627942}
+    - _L2_dir: {r: 0.38804853, g: 0.85326576, b: 0.34836176, a: 0}
+    - _L3_color: {r: 0, g: 0.0645563, b: 0.5549097, a: 0.34856138}
+    - _L3_dir: {r: 0.50472164, g: 0.30319878, b: -0.8082862, a: 0}
+    - _L4_color: {r: 0, g: 0.23139179, b: 0.0039222864, a: 0.09710104}
+    - _L4_dir: {r: 0.74442035, g: 0.16232957, b: -0.6476785, a: 0}
+    - _L5_color: {r: 0.32496238, g: 0, b: 0.012855306, a: 0.11689295}
+    - _L5_dir: {r: 0.9823161, g: 0.15080373, b: 0.11096535, a: 0}
+    - _L6_color: {r: 0, g: 0, b: 0, a: 1}
+    - _L6_dir: {r: 0, g: 1, b: 0, a: 0}
+    - _Light_5_Dir: {r: 0, g: 0, b: 0, a: 0}
+    - _Light_6_Dir: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_CustomShader
-  m_Shader: {fileID: -6465566751694194690, guid: 9944585abb5ca414d97a1994d114801b, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: c6626764594ead949a2a4feb33458da4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -121,7 +121,7 @@ Material:
     - _Fresnel_Angle: -1
     - _Fresnel_Size: 6.3
     - _GlossMapScale: 0
-    - _Gloss_Size: 20
+    - _Gloss_Size: 72
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
@@ -146,16 +146,24 @@ Material:
     - _Gloss_Intensity: {r: 2.1688416, g: 1.4739327, b: 1.3197197, a: 0}
     - _L1_Dir: {r: 0, g: 0, b: 0, a: 0}
     - _L1_col: {r: 1, g: 0, b: 0, a: 1}
-    - _L1_color: {r: 0.5016551, g: 0.49631834, b: 0.3762413, a: 0.18045148}
-    - _L1_dir: {r: -0.85647774, g: -0.033315867, b: 0.5151077, a: 0}
-    - _L2_color: {r: 0, g: 0.5116825, b: 0.008673451, a: 0.214722}
+    - _L1_color: {r: 0.64739513, g: 0.48491168, b: 0.61043066, a: 0.24156536}
+    - _L1_dir: {r: -0.32182977, g: 0.74213684, b: 0.5879273, a: 0}
+    - _L2_color: {r: 0.95399153, g: 0, b: 0.0377393, a: 0.34316242}
     - _L2_color_1: {r: 1, g: 1, b: 1, a: 1}
-    - _L2_dir: {r: 0.42865324, g: -0.06536369, b: -0.9011015, a: 0}
-    - _L3_color: {r: 0.059969075, g: 0, b: 0, a: 0.5169748}
-    - _L3_dir: {r: -0.82789904, g: -0.46246213, b: 0.3173515, a: 0}
+    - _L2_dir: {r: 0.9033224, g: -0.14853632, b: 0.40242454, a: 0}
+    - _L3_color: {r: 0.5016551, g: 0.49631834, b: 0.3762413, a: 0.18045148}
+    - _L3_dir: {r: -0.85647774, g: -0.033315867, b: 0.5151077, a: 0}
+    - _L4_color: {r: 0, g: 0.5116825, b: 0.008673451, a: 0.214722}
+    - _L4_dir: {r: 0.42865324, g: -0.06536369, b: -0.9011015, a: 0}
+    - _L5_color: {r: 0, g: 0.078870796, b: 0.6779534, a: 0.42585015}
+    - _L5_dir: {r: -0.654748, g: -0.1769814, b: -0.734835, a: 0}
+    - _L6_color: {r: 0, g: 0, b: 0, a: 1}
+    - _L6_dir: {r: 0, g: 1, b: 0, a: 0}
     - _Light_1_Col: {r: 1, g: 1, b: 1, a: 0}
     - _Light_1_Color: {r: 0, g: 0, b: 0, a: 0}
     - _Light_1_Dir: {r: 0, g: 0, b: 0, a: 0}
+    - _Light_5_Dir: {r: 0, g: 0, b: 0, a: 0}
+    - _Light_6_Dir: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
